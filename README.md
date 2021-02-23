@@ -11,7 +11,7 @@ E-mail     | `dimuit86@gmail.com`
 Website    | <a href="https://digitalavenue.dev/" target="_blank">Digital Avenue LK</a>
 Social     | <a href="https://www.facebook.com/dimuit86/" target="_blank">Facebook</a>
 Social     | <a href="https://www.facebook.com/dimuit86/" target="_blank">Twitter</a> 
-YouTube    | https://www.youtube.com/channel/UCovlVsoRVItner26ZJPBjmQ
+YouTube    | <a href="https://www.youtube.com/channel/UCovlVsoRVItner26ZJPBjmQ" target="_blank">YouTube</a>
 
 ## SUMMARY
 * Can Do.  
